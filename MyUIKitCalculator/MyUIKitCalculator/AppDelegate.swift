@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  myCalculator
+//  MyUIKitCalculator
 //
 //  Created by 이선준 on 12/14/23.
 //
