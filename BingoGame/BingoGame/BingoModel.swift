@@ -157,29 +157,3 @@ struct Bingo {
         checkHorizontalLines()
     }
 }
-
-var myBingo: Bingo = Bingo()
-
-myBingo.pressPanel(y: 2, x: 1)
-myBingo.printScreen()
-
-myBingo.pressPanel(y: 2, x: 2)
-myBingo.printScreen()
-
-myBingo.pressPanel(y: 2, x: 3)
-myBingo.printScreen()
-
-myBingo.pressPanel(y: 1, x: 1)
-myBingo.printScreen()
-
-myBingo.pressPanel(y: 3, x: 3)
-myBingo.printScreen()
-
-myBingo.pressPanel(y: 1, x: 2)
-myBingo.printScreen()
-
-myBingo.pressPanel(y: 1, x: 3)
-myBingo.printScreen()
-
-myBingo.pressPanel(y: 1, x: 2)
-myBingo.printScreen()
